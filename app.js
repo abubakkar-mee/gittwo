@@ -11,3 +11,5 @@ const person = {
 }
 
 var num = 100;
+
+console.log(Math.random())
