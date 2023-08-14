@@ -9,3 +9,5 @@ console.log("seven")
 const person = {
     name:"abubakkar siddique"
 }
+
+var num = 100;
